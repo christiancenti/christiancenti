@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Christian
 
-**AI Product Engineer based in Milan**, focused on turning real business problems into AI-first, end-to-end digital products.  
+**GenAI Engineer based in Milan**, focused on turning real business problems into AI-first, end-to-end digital products.  
 
 I work across the whole lifecycle: from understanding the problem and designing the solution, to shipping production-ready applications that create measurable value.  
 
